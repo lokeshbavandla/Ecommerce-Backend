@@ -1,3 +1,3 @@
-# Backend For the Ecommerce Assignmet
+# Backend For the Ecommerce Website
 
-Building backend for the ecommerce Assignment
+Building backend for the ecommerce Website
